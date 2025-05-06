@@ -1,0 +1,4 @@
+baseURL = 'https://vahnzo.com/'
+languageCode = 'en-us'
+title = 'vahnzo'
+theme = 'nostyleplease'
